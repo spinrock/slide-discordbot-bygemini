@@ -7,23 +7,6 @@ mdc: true
 ---
 
 # Gemini CLI を利用したDiscord Bot開発
-<!-- 
----
-
-# Profile
-
-<img src='https://avatars.githubusercontent.com/u/7534011?v=4&size=128' />
-
-<br />
-
-### 名前 : spinrock
-
-<br />
-
-- [GitHub](https://github.com/spinrock)
-- [Zenn](https://zenn.dev/spinrock)
-- [Qita](https://qiita.com/spinrock)
- -->
  
 ---
 
